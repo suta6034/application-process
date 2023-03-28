@@ -1,0 +1,81 @@
+@import '~@karriereat/global-styles/scss/tools/typo';
+@import '~@karriereat/global-styles/scss/tools/focus';
+@import '~@karriereat/global-styles/scss/components/link/index';
+@import '../settings/branding';
+
+// 1. Consider the sticky NavSub component when scrolling to an anchor.
+//    See: https://tinyurl.com/35ath3ry
+html {
+    $spacing: 10px;
+
+    scroll-padding-top: $branding-header-height + $spacing; // 1
+}
+
+body {
+    color: $k-color-text;
+}
+
+a {
+    &,
+    &:visited {
+        color: inherit;
+    }
+
+    text-decoration: none;
+}
+
+hr {
+    display: block;
+    margin: 0;
+    padding: 0;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid $k-color-gray--200;
+}
+
+img,
+svg {
+    vertical-align: middle;
+}
+
+/* stylelint-disable-next-line selector-no-vendor-prefix */
+::-webkit-input-placeholder {
+    color: $k-color-gray--300;
+}
+
+/* stylelint-disable-next-line selector-no-vendor-prefix */
+::-moz-placeholder {
+    color: $k-color-gray--300;
+}
+
+/* stylelint-disable-next-line selector-no-vendor-prefix */
+:-ms-input-placeholder {
+    color: $k-color-gray--300;
+}
+
+// Sections that are excluded from the tabindex don't necessarily need a focus style.
+// See: https://github.com/w3c/wcag/issues/1001#issuecomment-568157180
+[tabindex='-1']:focus {
+    outline: none !important;
+}
+
+// Inert polyfill.
+// @source https://github.com/WICG/inert/blob/v1.1.6/src/inert.js#L666
+[inert] {
+    cursor: default;
+    pointer-events: none;
+}
+
+// stylelint-disable property-no-vendor-prefix
+[inert],
+[inert] * {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+// stylelint-enable
+
+* {
+    @include k-focus;
+}

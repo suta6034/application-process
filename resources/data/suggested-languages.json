@@ -1,0 +1,83 @@
+[
+  {
+    "id": null,
+    "label": "Deutsch",
+    "languageId": 3975,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  },
+  {
+    "id": null,
+    "label": "Englisch",
+    "languageId": 3976,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  },
+  {
+    "id": null,
+    "label": "Französisch",
+    "languageId": 3978,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  },
+  {
+    "id": null,
+    "label": "Spanisch",
+    "languageId": 3995,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  },
+  {
+    "id": null,
+    "label": "Italienisch",
+    "languageId": 3981,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  },
+  {
+    "id": null,
+    "label": "Russisch",
+    "languageId": 3990,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  },
+  {
+    "id": null,
+    "label": "Kroatisch",
+    "languageId": 3983,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  },
+  {
+    "id": null,
+    "label": "Ungarisch",
+    "languageId": 3999,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  },
+  {
+    "id": null,
+    "label": "Serbisch",
+    "languageId": 3992,
+    "level": {
+      "id": 10,
+      "label": "Grundkenntnisse"
+    }
+  }
+]

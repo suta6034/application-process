@@ -1,0 +1,19 @@
+@import '../settings/spacing';
+
+@mixin surface-boost(
+    $adjust-horizontally: true,
+    $adjust-vertically: true,
+    $spacing: $k-spacing--s,
+) {
+    padding: $spacing;
+
+    @if $adjust-horizontally {
+        margin-right: -$spacing;
+        margin-left: -$spacing;
+    }
+
+    @if $adjust-vertically {
+        margin-top: -$spacing;
+        margin-bottom: -$spacing;
+    }
+}

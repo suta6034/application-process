@@ -1,0 +1,106 @@
+[
+  {
+    "label": "St. Gallen",
+    "id": 24317
+  },
+  {
+    "label": "Zürich",
+    "id": 12324
+  },
+  {
+    "label": "Aargau",
+    "id": 12320
+  },
+  {
+    "label": "Bern",
+    "id": 12316
+  },
+  {
+    "label": "Luzern",
+    "id": 12322
+  },
+  {
+    "label": "Nidwalden",
+    "id": 12296
+  },
+  {
+    "label": "Basel-Stadt",
+    "id": 12317
+  },
+  {
+    "label": "Uri",
+    "id": 12326
+  },
+  {
+    "label": "Zug",
+    "id": 12325
+  },
+  {
+    "label": "Genf",
+    "id": 12310
+  },
+  {
+    "label": "Jura",
+    "id": 12315
+  },
+  {
+    "label": "Waadt",
+    "id": 12311
+  },
+  {
+    "label": "Glarus",
+    "id": 12330
+  },
+  {
+    "label": "Schwyz",
+    "id": 12250
+  },
+  {
+    "label": "Tessin",
+    "id": 12327
+  },
+  {
+    "label": "Wallis",
+    "id": 12314
+  },
+  {
+    "label": "Thurgau",
+    "id": 12187
+  },
+  {
+    "label": "Freiburg",
+    "id": 12313
+  },
+  {
+    "label": "Obwalden",
+    "id": 12323
+  },
+  {
+    "label": "Neuenburg",
+    "id": 12312
+  },
+  {
+    "label": "Solothurn",
+    "id": 12319
+  },
+  {
+    "label": "Graubünden",
+    "id": 12331
+  },
+  {
+    "label": "Schaffhausen",
+    "id": 12178
+  },
+  {
+    "label": "Basel-Landschaft",
+    "id": 12318
+  },
+  {
+    "label": "Appenzell Innerrhoden",
+    "id": 12329
+  },
+  {
+    "label": "Appenzell Ausserrhoden",
+    "id": 12328
+  }
+]

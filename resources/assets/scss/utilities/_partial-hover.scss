@@ -1,0 +1,10 @@
+.u-partial-hover-parent {
+    &:hover,
+    &:focus {
+        .u-partial-hover-child {
+            text-decoration: underline;
+        }
+    }
+
+    cursor: pointer;
+}

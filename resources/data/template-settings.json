@@ -1,0 +1,123 @@
+[
+  {
+    "key": "vegan",
+    "label": "Linie",
+    "colors": [
+      {
+        "id": "blu-gre",
+        "label": "Grau",
+        "hex": "#607D8B",
+        "default": true
+      },
+      {
+        "id": "grm",
+        "label": "Hellgrün",
+        "hex": "#D6EDB2"
+      },
+      {
+        "id": "win",
+        "label": "Weinrot",
+        "hex": "#8D2F33"
+      }
+    ],
+    "fonts": [
+      {
+        "id": "not-not",
+        "label": "Schlicht",
+        "default": true
+      },
+      {
+        "id": "lor-pts",
+        "label": "Elegant"
+      }
+    ]
+  },
+  {
+    "key": "ladder",
+    "label": "Balken",
+    "colors": [
+      {
+        "id": "karriere-blue-grey",
+        "label": "Grau",
+        "hex": "#607D8B",
+        "default": true
+      },
+      {
+        "id": "karriere-malachite",
+        "label": "Grün",
+        "hex": "#68CC77"
+      },
+      {
+        "id": "karriere-product-red",
+        "label": "Rot",
+        "hex": "#BC173B"
+      },
+      {
+        "id": "karriere-cyan",
+        "label": "Türkis",
+        "hex": "#2BB9DD"
+      },
+      {
+        "id": "gre",
+        "label": "Schwarz",
+        "hex": "#333333"
+      }
+    ],
+    "fonts": [
+      {
+        "id": "not-not",
+        "label": "Schlicht",
+        "default": true
+      },
+      {
+        "id": "lor-pts",
+        "label": "Elegant"
+      }
+    ]
+  },
+  {
+    "key": "double-decker",
+    "label": "Block",
+    "colors": [
+      {
+        "id": "blu-gre",
+        "label": "Grau",
+        "hex": "#607D8B",
+        "default": true
+      },
+      {
+        "id": "grn",
+        "label": "Grün",
+        "hex": "#6ECC74"
+      },
+      {
+        "id": "cya",
+        "label": "Türkis",
+        "hex": "#2BB9DD"
+      },
+      {
+        "id": "blu",
+        "label": "Blau",
+        "hex": "#1E90FF"
+      },
+      {
+        "id": "pin",
+        "label": "Kirschrot",
+        "hex": "#EA0F58"
+      }
+    ],
+    "fonts": [
+      {
+        "id": "not-not",
+        "label": "Schlicht",
+        "default": true
+      },
+      {
+        "id": "lor-pts",
+        "label": "Elegant"
+      }
+    ]
+  }
+]
+
+

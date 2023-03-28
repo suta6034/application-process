@@ -1,0 +1,6 @@
+@import '~hooper/dist/hooper.css';
+
+// 1. Since `hooper-section` has a fixed height of 200px, we are forced to overwrite their styles.
+.hooper {
+    height: auto; // 1
+}

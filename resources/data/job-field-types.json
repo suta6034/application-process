@@ -1,0 +1,89 @@
+[
+  {
+    "id": 3085,
+    "title": "Assistenz, Verwaltung",
+    "value": 3085
+  },
+  {
+    "id": 3090,
+    "title": "Beratung, Consulting",
+    "value": 3090
+  },
+  {
+    "id": 3095,
+    "title": "Coaching, Training",
+    "value": 3095
+  },
+  {
+    "id": 3083,
+    "title": "Einkauf, Logistik",
+    "value": 3083
+  },
+  {
+    "id": 3086,
+    "title": "Finanzen, Bankwesen",
+    "value": 3086
+  },
+  {
+    "id": 3091,
+    "title": "F\u00fchrung, Management",
+    "value": 3091
+  },
+  {
+    "id": 3100,
+    "title": "Gastronomie, Tourismus",
+    "value": 3100
+  },
+  {
+    "id": 3093,
+    "title": "Grafik, Design"
+  },
+  {
+    "id": 2172,
+    "title": "IT, EDV"
+  },
+  {
+    "id": 3089,
+    "title": "Marketing, PR"
+  },
+  {
+    "id": 3099,
+    "title": "Personalwesen"
+  },
+  {
+    "id": 3096,
+    "title": "Pharma, Gesundheit, Soziales"
+  },
+  {
+    "id": 3088,
+    "title": "Produktion, Handwerk"
+  },
+  {
+    "id": 3087,
+    "title": "Rechnungswesen, Controlling"
+  },
+  {
+    "id": 4048,
+    "title": "Rechtswesen"
+  },
+  {
+    "id": 3951,
+    "title": "Sachbearbeitung"
+  },
+  {
+    "id": 3092,
+    "title": "Sonstige Berufe"
+  },
+  {
+    "id": 3081,
+    "title": "Technik, Ingenieurwesen"
+  },
+  {
+    "id": 3084,
+    "title": "Verkauf, Kundenbetreuung"
+  },
+  {
+    "id": 3097,
+    "title": "Wissenschaft, Forschung"
+  }
+]

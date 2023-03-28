@@ -1,0 +1,157 @@
+[
+  {
+    "id": 4000,
+    "title": "Banken/Finanz-DL/Versicherungen",
+    "value": 4000
+  },
+  {
+    "id": 4001,
+    "title": "Bauwesen/Immobilien/Gebäudetechnik",
+    "value": 4001
+  },
+  {
+    "id": 4003,
+    "title": "Beratung div.",
+    "value": 4003
+  },
+  {
+    "id": 4004,
+    "title": "Beratung (Recht/Steuern/Wirtschaft)",
+    "value": 4004
+  },
+  {
+    "id": 4002,
+    "title": "Bildungswesen",
+    "value": 4002
+  },
+  {
+    "id": 4005,
+    "title": "Druck/Papier/Verpackung",
+    "value": 4005
+  },
+  {
+    "id": 4006,
+    "title": "Elektrotechnik/Elektronik/Automatisation",
+    "value": 4006
+  },
+  {
+    "id": 4007,
+    "title": "Energiewirtschaft/Umwelttechnik",
+    "value": 4007
+  },
+  {
+    "id": 4008,
+    "title": "Fahrzeugbau/Zulieferer",
+    "value": 4008
+  },
+  {
+    "id": 4009,
+    "title": "Gastgewerbe/Tourismus/Hotellerie",
+    "value": 4009
+  },
+  {
+    "id": 4010,
+    "title": "Gesundheitswesen/Medizin/Soziales",
+    "value": 4010
+  },
+  {
+    "id": 4011,
+    "title": "Handel (Groß- und Einzelhandel)",
+    "value": 4011
+  },
+  {
+    "id": 4012,
+    "title": "Handwerk/Gewerbe",
+    "value": 4012
+  },
+  {
+    "id": 4013,
+    "title": "Industrie/Produktion",
+    "value": 4013
+  },
+  {
+    "id": 4014,
+    "title": "IT/EDV/Internet/Telekom",
+    "value": 4014
+  },
+  {
+    "id": 4015,
+    "title": "Konsumgüter/Markenartikel",
+    "value": 4015
+  },
+  {
+    "id": 4016,
+    "title": "Land-/Forstwirtschaft/Holz",
+    "value": 4016
+  },
+  {
+    "id": 4017,
+    "title": "Logistik/Transport/Verkehr",
+    "value": 4017
+  },
+  {
+    "id": 4018,
+    "title": "Luft-/Raumfahrt",
+    "value": 4018
+  },
+  {
+    "id": 4019,
+    "title": "Maschinenbau/Anlagenbau",
+    "value": 4019
+  },
+  {
+    "id": 4020,
+    "title": "Medien/Verlagswesen",
+    "value": 4020
+  },
+  {
+    "id": 4021,
+    "title": "Nahrungs-/Genussmittel",
+    "value": 4021
+  },
+  {
+    "id": 4022,
+    "title": "NGO/NPO/Vereine",
+    "value": 4022
+  },
+  {
+    "id": 4023,
+    "title": "Öffentlicher Dienst/Verbände",
+    "value": 4023
+  },
+  {
+    "id": 4024,
+    "title": "Personaldienstleistung",
+    "value": 4024
+  },
+  {
+    "id": 4025,
+    "title": "Pharma/Chemie/Biotechnologie",
+    "value": 4025
+  },
+  {
+    "id": 4027,
+    "title": "Sport/Entertainment/Freizeitwirtschaft",
+    "value": 4027
+  },
+  {
+    "id": 4028,
+    "title": "Werbung/Marketing/PR",
+    "value": 4028
+  },
+  {
+    "id": 4029,
+    "title": "Wissenschaft/Forschung",
+    "value": 4029
+  },
+  {
+    "id": 4026,
+    "title": "Sonstige Branchen",
+    "value": 4026
+  },
+  {
+    "id": 11964,
+    "title": "Mischkonzern",
+    "value": 11964
+  }
+]

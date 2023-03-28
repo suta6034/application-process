@@ -1,0 +1,31 @@
+@import '~@karriereat/global-styles/scss/components/input/index';
+
+@mixin input() {
+    @include k-c-input;
+
+    &[disabled],
+    &--disabled,
+    &[readonly],
+    &--readonly {
+        @include k-c-input--disabled;
+    }
+
+    &--white {
+        @include k-c-input--color(
+            $k-c-input-border-color--white,
+            $k-c-input-border-color-focus--white
+        );
+    }
+
+    &.has-status-error {
+        @include k-c-input--color($k-c-input-border-color--error);
+    }
+
+    &.has-status-info {
+        @include k-c-input--color($k-c-input-border-color--info);
+    }
+
+    &.has-status-warning {
+        @include k-c-input--color($k-c-input-border-color--warning);
+    }
+}

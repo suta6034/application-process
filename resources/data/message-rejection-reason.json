@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Zeitlich ungünstig",
+    "key": "inconvenient-time",
+    "preDefinedMessage": "Das Jobangebot dürfte für die Kandidat*in zum aktuellen Zeitpunkt jedoch nicht relevant sein.",
+    "trackingDetail": "Inconvenient time"
+  },
+  {
+    "text": "Unpassender Einsatzort",
+    "key": "inconvenient-location",
+    "preDefinedMessage": "Leider kommt der angegebene Dienstort für die kontaktierte Kandidat*in nicht in Frage.",
+    "trackingDetail": "Inconvenient location"
+  },
+  {
+    "text": "Andere Position angestrebt",
+    "key": "other-position-preferred",
+    "preDefinedMessage": "Die Erwartungen der Kandidat*in an eine neue Position decken sich jedoch leider nicht mit Ihrem Jobangebot.",
+    "trackingDetail": "Other position preferred"
+  },
+  {
+    "text": "Anfrage nicht ansprechend",
+    "key": "inquiry-not-appealing",
+    "preDefinedMessage": "Die in Ihrer Nachricht enthaltenen Informationen haben die Kandidat*in jedoch leider nicht angesprochen.",
+    "trackingDetail": "Inquiry not appealing"
+  },
+  {
+    "text": "Gehalt entspricht nicht den Erwartungen",
+    "key": "salary-expectations",
+    "preDefinedMessage": "Die Erwartungen der Kandidat*in zum angeführten Gehalt decken sich jedoch leider nicht mit Ihrem Jobangebot.",
+    "trackingDetail": "Salary Expectations"
+  },
+  {
+    "text": "Arbeitgeber nicht ansprechend",
+    "key": "employer-not-appealing",
+    "preDefinedMessage": "Die Erwartungen der Kandidat*in an einen neuen Arbeitgeber unterscheiden sich jedoch von Ihren Unternehmens-Eckdaten.",
+    "trackingDetail": "Employer not appealing"
+  },
+  {
+    "text": "Anderer Grund",
+    "key": "other-reason",
+    "preDefinedMessage": "Das Jobangebot dürfte für die Kandidat*in jedoch nicht relevant sein, daher hat die Kandidat*in dieses abgelehnt.",
+    "trackingDetail": "Other reason"
+  }
+]

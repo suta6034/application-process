@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "title": "Keine Angabe"
+  },
+  {
+    "id": 3960,
+    "title": "Vollzeit"
+  },
+  {
+    "id": 3961,
+    "title": "Teilzeit"
+  },
+  {
+    "id": 3963,
+    "title": "Praktika"
+  },
+  {
+    "id": 3965,
+    "title": "Lehre"
+  },
+  {
+    "id": 3964,
+    "title": "Diplomarbeit/Dissertation"
+  },
+  {
+    "id": 3962,
+    "title": "Freelancer*in/Projektarbeit"
+  }
+]

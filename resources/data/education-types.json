@@ -1,0 +1,100 @@
+{
+  "Schule Unterstufe": [
+    {
+      "id": 12904,
+      "label": "MS - Mittelschule"
+    },
+    {
+      "id": 4065,
+      "label": "AHS - Allgemein bildende höhere Schule"
+    },
+    {
+      "id": 4064,
+      "label": "HS - Hauptschule"
+    }
+  ],
+  "Schule Oberstufe": [
+    {
+      "id": 4066,
+      "label": "AHS - Allgemein bildende höhere Schule"
+    },
+    {
+      "id": 4067,
+      "label": "HAK - Handelsakademie"
+    },
+    {
+      "id": 4070,
+      "label": "HTL - Höhere Lehranstalt für technische Berufe"
+    },
+    {
+      "id": 4068,
+      "label": "HLW - Höhere Lehranstalt wirtschaftlicher Berufe"
+    },
+    {
+      "id": 4069,
+      "label": "HAS - Handelsschule"
+    }
+  ],
+  "Hochschule": [
+    {
+      "id": 4073,
+      "label": "Universität"
+    },
+    {
+      "id": 4072,
+      "label": "Fachhochschule"
+    },
+    {
+      "id": 12903,
+      "label": "Pädagogische Hochschule"
+    }
+  ],
+  "Berufsbildende Schulen": [
+    {
+      "id": 4078,
+      "label" : "PTS - Polytechnische Schule"
+    },
+    {
+      "id": 4071,
+      "label": "FS - Fachschule"
+    }
+  ],
+  "Lehre": [
+    {
+      "id": 4074,
+      "label": "Berufsschule"
+    },
+    {
+      "id": 12908,
+      "label": "Lehre mit Matura"
+    }
+  ],
+  "Werksmeister*in": [
+    {
+      "id": 4075,
+      "label": "Meisterschule"
+    }
+  ],
+  "Andere...": [
+    {
+      "id": 4076,
+      "label": "Lehrgang/Kolleg"
+    },
+    {
+      "id": 12905,
+      "label": "Erwachsenenbildung"
+    },
+    {
+      "id": 12906,
+      "label": "Berufsreife"
+    },
+    {
+      "id": 12907,
+      "label" : "Studienberechtigung"
+    },
+    {
+      "id": 4077,
+      "label": "Anderer..."
+    }
+  ]
+}

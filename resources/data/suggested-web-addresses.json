@@ -1,0 +1,38 @@
+[
+  {
+    "address": "https:\/\/www.xing.com\/",
+    "label": "Xing"
+  },
+  {
+    "address": "https:\/\/at.linkedin.com\/",
+    "label": "LinkedIn"
+  },
+  {
+    "address": "https:\/\/twitter.com\/",
+    "label": "Twitter"
+  },
+  {
+    "address": "https:\/\/medium.com\/",
+    "label": "Medium"
+  },
+  {
+    "address": "https:\/\/stackoverflow.com\/",
+    "label": "StackOverflow"
+  },
+  {
+    "address": "https:\/\/github.com\/",
+    "label": "GitHub"
+  },
+  {
+    "address": "https:\/\/www.behance.net\/",
+    "label": "Behance"
+  },
+  {
+    "address": "https:\/\/dribbble.com\/",
+    "label": "Dribbble"
+  },
+  {
+    "address": "https:\/\/vimeo.com\/de\/",
+    "label": "Vimeo"
+  }
+]

@@ -1,0 +1,12 @@
+@import '../assets/scss/settings/breakpoint';
+
+@mixin tablet {
+    @media (min-width: #{$k-breakpoint--m}) {
+        @content;
+    }
+}
+@mixin desktop {
+    @media (min-width: #{$k-breakpoint--l}) {
+        @content;
+    }
+}

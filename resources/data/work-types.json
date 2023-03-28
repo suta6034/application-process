@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "label": "Berufserfahrung"
+  },
+  {
+    "id": 2,
+    "label": "Elternzeit"
+  },
+  {
+    "id": 3,
+    "label": "Grundwehrdienst"
+  },
+  {
+    "id": 4,
+    "label": "Zivildienst"
+  },
+  {
+    "id": 5,
+    "label": "Sonstiges"
+  }
+]

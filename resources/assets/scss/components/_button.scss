@@ -1,0 +1,65 @@
+@import '~@karriereat/global-styles/scss/components/button/index';
+
+@mixin button() {
+    @include k-c-button;
+    @include k-c-button--color;
+
+    $padding--s: $k-spacing--s $k-spacing--l;
+
+    &--s {
+        @include k-c-button--size($padding--s);
+    }
+
+    &--full {
+        @include k-c-button--full;
+    }
+
+    &[disabled],
+    &--disabled {
+        @include k-c-button--color(
+            $k-c-button-border-color--disabled,
+            $k-c-button-border-color--disabled,
+            $k-c-button-background-color--disabled,
+            $k-c-button-background-color--disabled,
+            $k-c-button-color--disabled,
+            $k-c-button-color--disabled
+        );
+    }
+
+    &--condensed {
+        @include k-c-button--size($k-c-button-padding--condensed);
+    }
+
+    &--outline {
+        @include k-c-button--color(
+            $k-c-button-border-color--outline,
+            $k-c-button-border-color-hover--outline,
+            $k-c-button-background-color--outline,
+            $k-c-button-background-color-hover--outline,
+            $k-c-button-color--outline,
+            $k-c-button-color-hover--outline
+        );
+    }
+
+    &--outlineWhite {
+        @include k-c-button--color(
+            $k-c-button-border-color--outline-white,
+            $k-c-button-border-color-hover--outline-white,
+            $k-c-button-background-color--outline-white,
+            $k-c-button-background-color-hover--outline-white,
+            $k-c-button-color--outline-white,
+            $k-c-button-color-hover--outline-white
+        );
+    }
+
+    &--red {
+        @include k-c-button--color(
+            $k-c-button-border-color--outline-white,
+            $k-c-button-border-color-hover--outline-white,
+            $k-c-button-background-color--outline-white,
+            $k-c-button-background-color-hover--outline-white,
+            $k-c-button-color--outline-white,
+            $k-c-button-color-hover--outline-white
+        );
+    }
+}

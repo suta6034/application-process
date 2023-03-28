@@ -1,0 +1,22 @@
+// put this mixin directly into the anchor of the parent class
+//  parent {
+//      position: relative;
+//          &__link {
+//              @include anchor-block-overlay();
+//          }
+//  }
+
+@mixin anchor-block-overlay() {
+    // For best a11y an anchor should not contain all the content of a
+    // preview card like the application item because everything is read out
+    // loud to a screen reader user.
+    // See: https://www.sarasoueidan.com/blog/nested-links#my-implementation
+    &::before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        content: '';
+    }
+}

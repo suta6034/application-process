@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Wien",
+    "id": 2430
+  },
+  {
+    "label": "Niederösterreich",
+    "id": 2429
+  },
+  {
+    "label": "Burgenland",
+    "id": 2431
+  },
+  {
+    "label": "Oberösterreich",
+    "id": 2411
+  },
+  {
+    "label": "Steiermark",
+    "id": 2425
+  },
+  {
+    "label": "Salzburg",
+    "id": 2426
+  },
+  {
+    "label": "Kärnten",
+    "id": 2424
+  },
+  {
+    "label": "Tirol",
+    "id": 2427
+  },
+  {
+    "label": "Vorarlberg",
+    "id": 2428
+  }
+]

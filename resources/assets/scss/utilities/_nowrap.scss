@@ -1,0 +1,5 @@
+// The <nobr> element was never standard HTML
+// and was not widely implemented, so you shouldn’t use it.
+.u-nowrap {
+    white-space: nowrap;
+}

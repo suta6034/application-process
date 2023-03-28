@@ -1,0 +1,6 @@
+// Makes sure that very long words (eg. jobtitles) don't overflow the predicted area.
+.u-word-break {
+    overflow-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+}

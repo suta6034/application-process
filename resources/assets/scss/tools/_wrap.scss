@@ -1,0 +1,10 @@
+@import '~@karriereat/global-styles/scss/tools/wrap';
+
+@mixin wrap(
+    $size: 1,
+    $spacing: 15px,
+    $center: true,
+    $max-width: 1248px
+) {
+    @include k-wrap($size, $spacing, $center, $max-width);
+}

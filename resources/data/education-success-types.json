@@ -1,0 +1,14 @@
+[
+  {
+    "value": 0,
+    "label": "keine Angabe"
+  },
+  {
+    "value": 1,
+    "label": "Guter Erfolg"
+  },
+  {
+    "value": 2,
+    "label": "Ausgezeichneter Erfolg"
+  }
+]

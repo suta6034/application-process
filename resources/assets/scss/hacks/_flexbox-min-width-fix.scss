@@ -1,0 +1,6 @@
+// Fix rendering of nested flex items in IE11 and Edge.
+._flexbox-min-width-fix {
+    flex-basis: auto;
+    min-width: auto;
+    white-space: nowrap;
+}

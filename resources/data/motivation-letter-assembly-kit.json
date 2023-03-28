@@ -1,0 +1,271 @@
+[
+  {
+    "label": "Intelligente Felder",
+    "subCategories": [
+      {
+        "label": "Intelligente Felder",
+        "items":[
+          {
+            "label": "Vorname",
+            "text": "(Vorname)",
+            "tracking": "application-letter-intelligent-fields-firstname"
+          },
+          {
+            "label": "Nachname",
+            "text": "(Nachname)",
+            "tracking": "application-letter-intelligent-fields-surname"
+          },
+          {
+            "label": "Jobbezeichnung aus Inserat",
+            "text": "(ausgeschriebene Position)",
+            "tracking": "application-letter-intelligent-fields-jobdescritption"
+
+          },
+          {
+            "label": "Firmenname aus Inserat",
+            "text": "(Firmenname aus Inserat)",
+            "tracking": "application-letter-intelligent-fields-companyname"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Einleitung",
+    "subCategories":  [
+      {
+        "label": "Einleitung",
+        "items": [
+          {
+            "text": "Sie suchen eine verantwortungsbewusste, entscheidungsstarke und engagierte Person für die Leitung des Marketings der (Firmenname aus Inserat) – ich bin die richtige Person für Sie.",
+            "tracking": "application-letter-intro-responsible"
+          },
+          {
+            "text": "Ihr Unternehmen steht seit 20 Jahren für Zuverlässigkeit und Qualität. Sehr gerne möchte ich Ihr Team mit meiner Erfahrung und Verbesserungsfreude unterstützen.",
+            "tracking": "application-letter-intro-twenty-years"
+          },
+          {
+            "text": "Seit mehr als 10 Jahren arbeite ich erfolgreich als Musterposition in der Musterfirma und verstärke das Team mit meiner Koordinationsstärke und meinem Verkaufstalent. Nun möchte ich mich einer neuen Herausforderung in Ihrem Unternehmen stellen.",
+            "tracking": "application-letter-intro-ten-years"
+          },
+          {
+            "text": "Sie suchen eine neue Mitarbeiter*in mit Engagement, Enthusiasmus und Affinität für Zahlen? Dann stelle ich mich Ihnen gerne als potenzielle Bewerber*in für die Stelle als (ausgeschriebene Position) vor.",
+            "tracking": "application-letter-intro-engagement"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Hauptteil",
+    "subCategories": [
+      {
+        "label":"Berufliche Erfahrungen",
+        "items": [
+          {
+            "text": "Seit mehr als fünf Jahren arbeite ich bereits im Marketing. Zunächst als Marketingassistenz (Musterfirma/ 1 Jahr, 10 Monate), dann als Online Marketing Managerin (Musterfirma/ 3 Jahre, 6 Monate). In diesen Tätigkeiten konnte ich Erfahrungen im klassischen Marketing und im Online Marketing sammeln.",
+            "tracking": "application-letter-main-more-then-five-years"
+          },
+          {
+            "text": "Wie Sie meinem Lebenslauf entnehmen können, konnte ich in den vergangenen 7 Jahren einen großen Erfahrungsschatz im Bereich des Online Marketings aufbauen. Durch die unterschiedlichen Positionen, die ich dabei schon belegt habe, kenne ich die Herausforderungen im Online Marketing sehr gut und bin mit aktuellen Entwicklungen bestens vertraut.",
+            "tracking": "application-letter-main-my-cv"
+          },
+          {
+            "text": "In den vergangenen Jahren habe ich mich intensiv mit dem spannenden Feld des Online Marketings beschäftigt. Zunächst als Online Marketing Manager bei Musterfirma, danach als Performance Marketing Spezialist bei Musterfirma. Diese Erfahrungen möchte ich nun in den Dienst Ihres Unternehmens stellen und sie gerne noch weiter vertiefen und ausbauen.",
+            "tracking": "application-letter-main-past-years"
+          }
+        ]
+      },
+      {
+        "label": "Fachliche Kompetenzen",
+        "items": [
+          {
+            "text": "Mein Schwerpunkt liegt in der Gesundheitsbranche. Dank meiner freundlichen und offenen Art konnte ich großartige Ergebnisse im Verkauf erzielen. Dadurch verbesserten sich die Erlöse innerhalb von 3 Jahren um 25 Prozent. In dem Lehrgang „Wirksame Kommunikation für Sales Manager“ konnte ich mein Wissen zu dem Thema direkte Kommunikation erweitern.",
+            "tracking": "application-letter-skills-main-emphasis"
+          },
+          {
+            "text": "Die Berufsausbildung zum Musterberuf habe ich erfolgreich im Jahr 2015 bei der Musterfirma abgeschlossen. Im Anschluss wurde ich in ein festes Anstellungsverhältnis übernommen und in der Musterabteilung eingesetzt. Meine täglichen Aufgaben umfassen die Analyse und Optimierung der Unternehmenswebseite mithilfe des Muster-Tools. Darüber hinaus bin ich für die Content-Erstellung verantwortlich.",
+            "tracking": "application-letter-skills-vocational-training"
+          },
+          {
+            "text": "Im April 2020 werde ich das duale Studium zum Gesundheitsmanager mit den Schwerpunkten Rückentraining, Rehabilitations- und Präventionstraining abschließen. Aufgrund der Kombination aus Theorie und Praxis verfüge ich über fundiertes Wissen im Gesundheitsbereich, welches ich bereits mehrfach in der Musterfirma unter Beweis stellen konnte.",
+            "tracking": "application-letter-skills-dual-study"
+          }
+        ]
+      },
+      {
+        "label": "Motivation",
+        "items": [
+          {
+            "text": "Da (Firmenname aus Inserat) genau wie ich für Nachhaltigkeit und Solidarität steht, möchte ich meine Fähigkeiten gern in den Dienst der guten Sache stellen und gemeinsam mit Ihnen für eine bessere Zukunft kämpfen.",
+            "tracking": "application-letter-motivation-sustainability"
+          },
+          {
+            "text": "Ich bin seit vielen Jahren begeisterte Konsumentin Ihrer Produkte sowie Fan Ihrer Social-Media-Kanäle und möchte mit meinen Erfahrungen gerne zur Weiterentwicklung von (Firmenname aus Inserat) beitragen.",
+            "tracking": "application-letter-motivation-customer"
+          },
+          {
+            "text": "Menschen zu einem neuen Job zu verhelfen, ist eine der schönsten Tätigkeiten, die ich mir vorstellen kann. Damit meinen Arbeitsalltag zu verbringen, ist mein großer Traum, den ich mir mit dieser Bewerbung gerne erfülle möchte.",
+            "tracking": "application-letter-motivation-new-job"
+          },
+          {
+            "text": "\"Willst du, kannst du.\" ist nicht nur Ihr Slogan, sondern auch mein Lebensmotto. Ich bin der Meinung, dass man alles schaffen kann, wenn man es nur will, und ich würde zu gerne herausfinden, was wir gemeinsam erreichen könnten.",
+            "tracking": "application-letter-motivation-slogan"
+          }
+        ]
+      },
+      {
+        "label": "Soft Skills",
+        "items": [
+          {
+            "text": "Meine Kolleg*innen schätzen an mir vor allem meine direkte und innovative Denkweise. Das Projekt Beispielprojekt habe ich mit meinem ausgeprägten Verantwortungsbewusstsein und meiner zielorientierten Arbeitsweise erfolgreich abgeschlossen.",
+            "tracking": "application-letter-soft-skills-colleagues-appreciate"
+          },
+          {
+            "text": "In stressigen Situationen bewahre ich einen kühlen Kopf und fokussiere mich auf meine Aufgaben und ein respektvolles Miteinander. Ich arbeite gerne im Team und bringe neue Denkanstöße mit ein. Persönlich möchte ich mich stets weiterentwickeln und sehe Ihre Fortbildungsmöglichkeiten als starke Motivation, mein Wissen in dem Themengebiet Salescontrolling auszubauen.",
+            "tracking": "application-letter-soft-skills-stressful-situation"
+          },
+          {
+            "text": "Meine Stärken zeigen sich vor allem in meiner strukturierten und engagierten Arbeitsweise. Dabei liegt mein Fokus stets auf einer effizienten Zielerreichung. Auf der Suche nach neuen Herausforderungen möchte ich mein Wissen gerne in Ihre Firma einbringen und zu Ihrem Erfolg beitragen.",
+            "tracking": "application-letter-soft-skills-strength"
+          }
+        ]
+      },
+      {
+        "label": "Praktika und Lehrstelle",
+        "items": [
+          {
+            "text": "Meine berufliche Perspektive sehe ich bei Ihnen, dem Weltmarktführer im Bereich Industrielader, und möchte daher meine Chance nutzen, mich als Praktikantin im Bereich Finance & Controlling zu bewerben.",
+            "tracking": "application-letter-internship-perspective"
+          },
+          {
+            "text": "Mein theoretisches Wissen möchte ich nun in der Praxis unter Beweis stellen und bewerbe mich daher für das Praktikum im Backend Development.",
+            "tracking": "application-letter-internship-theoretical-knowledge"
+          },
+          {
+            "text": "Da Learning by Doing am besten funktioniert, möchte ich meine Studienkenntnisse im Online Marketing nun im dreimonatigen Berufspraktikum bei Ihnen vertiefen.",
+            "tracking": "application-letter-internship-learning-doing"
+          },
+          {
+            "text": "Da man von den Besten am meisten lernen kann, würde ich mich freuen, meine Lehre bei Ihnen absolvieren zu dürfen.",
+            "tracking": "application-letter-internship-learn-best"
+          }
+        ]
+      },
+      {
+        "label": "Berufseinsteiger",
+        "items": [
+          {
+            "text": "Seit meiner Jugend ist mein größtes Ziel Musterposition zu werden. Mit meinem Studium Musterstudium in Musterort habe ich den Grundstock dafür gelegt.",
+            "tracking": "application-letter-starter-youth"
+          },
+          {
+            "text": "Jetzt, wo sich das Studium dem Ende zuneigt, freue ich mich darauf, endlich ins Berufsleben einzusteigen, und möchte meine erworbenen Fähigkeiten bei Ihnen in die Praxis umsetzen.",
+            "tracking": "application-letter-starter-end-study"
+          },
+          {
+            "text": "Seit dem Beginn meiner Ausbildung zur Verfahrenstechnikerin freue ich mich darauf, diesen Beruf ausüben zu dürfen und bin froh, wenn ich das künftig in Ihrem Unternehmen tun darf.",
+            "tracking": "application-letter-starter-education"
+          }
+        ]
+      },
+      {
+        "label": "Wechsel",
+        "items": [
+          {
+            "text": "Nun ist es an der Zeit, den nächsten Schritt zu tun und die Herausforderung anzunehmen: Ich will mein Marketingwissen aus meinen bisherigen Positionen nun auch in leitender Funktion anwenden.",
+            "tracking": "application-letter-change-time"
+          },
+          {
+            "text": "Nach zehn Jahren ist es aber nun Zeit für etwas Neues und ich möchte mich einem neuen Tätigkeitsfeld widmen.",
+            "tracking": "application-letter-change-ten-years"
+          },
+          {
+            "text": "Bisher habe ich mich privat intensiv mit Social Media Marketing beschäftigt und möchte meine Leidenschaft nun zum Beruf machen. Anbei finden Sie einen Link zu den Instagram-Seiten, die ich derzeit betreue.",
+            "tracking": "application-letter-change-social-links"
+          },
+          {
+            "text": "Bisher habe ich mich privat intensiv mit Social Media Marketing beschäftigt und möchte meine Leidenschaft nun zum Beruf machen. Ob ich auch das Zeug dazu habe, entnehmen Sie dem Link zu meinen aktuellen Instagram-Seiten.",
+            "tracking": "application-letter-change-what-it-takes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Sonstiges",
+    "subCategories": [
+      {
+        "label": "Sonstiges",
+        "items": [
+          {
+            "text": "Für die ausgeschriebene Stelle stehe ich ab dem TT.MM.JJJJ zur Verfügung.",
+            "tracking": "application-letter-other-available-from"
+          },
+          {
+            "text": "Aufgrund meiner Kündigungsfrist stehe ich Ihnen frühestens am TT.MM.JJJJ zur Verfügung.",
+            "tracking": "application-letter-other-notice-period-date"
+          },
+          {
+            "text": "Meine Gehaltsvorstellungen für diese Position liegen zwischen 40.000 und 45.000 Euro pro Jahr.",
+            "tracking": "application-letter-other-expectations"
+          },
+          {
+            "text": "Aufgrund meiner Qualifikationen und Fähigkeiten liegen meine Gehaltsvorstellungen zwischen XY und YZ Euro pro Jahr.",
+            "tracking": "application-letter-other-qualifications"
+          },
+          {
+            "text": "Ab dem TT.MM.JJJJ stehe ich Ihnen hoch motiviert zur Verfügung. Ich bitte Sie, meine Bewerbung vertraulich zu behandeln.",
+            "tracking": "application-letter-other-available-confidential"
+          },
+          {
+            "text": "Meine Gehaltsvorstellung liegt bei 50.500 Euro jährlich. Nach Ablauf meiner dreimonatigen Kündigungsfrist stehe ich Ihnen mit voller Einsatzbereitschaft zur Verfügung.",
+            "tracking": "application-letter-other-expectations-yearly"
+          },
+          {
+            "text": "Da ich mich zur Zeit in einem Anstellungsverhältnis befinde, muss ich zunächst eine Kündigungsfrist von 3 Monaten einhalten.",
+            "tracking": "application-letter-other-notice-period-number"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Abschluss",
+    "subCategories": [
+      {
+        "label": "Abschluss",
+        "items":[
+          {
+            "text": "Ich freue mich über eine Einladung zum persönlichen Gespräch.",
+            "tracking": "application-letter-ending-invitation"
+          },
+          {
+            "text": "Gerne überzeuge ich Sie in einem persönlichen Gespräch davon, die perfekte Ergänzung für Ihr Team zu sein.",
+            "tracking": "application-letter-ending-convince"
+          },
+          {
+            "text": "Ich freue mich auf Ihre Rückmeldung.",
+            "tracking": "application-letter-ending-response"
+          },
+          {
+            "text": "Falls Sie noch Fragen haben, stehe ich Ihnen gerne persönlich zur Verfügung.",
+            "tracking": "application-letter-ending-questions"
+          },
+          {
+            "text": "Ich freue mich auf ein persönliches Kennenlernen mit Ihnen und dem Team.",
+            "tracking": "application-letter-ending-personal"
+          },
+          {
+            "text": "Gerne überzeuge ich Sie persönlich von meiner Motivation und meinen Kompetenzen.",
+            "tracking": "application-letter-ending-meet"
+          },
+          {
+            "text": "Hat meine Bewerbung Ihr Interesse geweckt, dann freue ich mich auf ein Vorstellungsgespräch.",
+            "tracking": "application-letter-ending-interest"
+          }
+        ]
+      }
+    ]
+  }
+]

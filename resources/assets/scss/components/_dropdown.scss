@@ -1,0 +1,26 @@
+@import '~@karriereat/global-styles/scss/components/input/settings';
+@import '../settings/border-radius';
+@import '../settings/color';
+@import '../settings/spacing';
+@import '../settings/z-index';
+
+@mixin dropdown($limit-height: true) {
+    position: absolute;
+    z-index: $z-index-dropdown;
+    width: 100%;
+    border: 1px solid $k-c-input-border-color;
+    border-top: none;
+    border-bottom-right-radius: $k-border-radius--s;
+    border-bottom-left-radius: $k-border-radius--s;
+    background: $k-color-white;
+    box-shadow:
+        $k-spacing--xs 0 $k-spacing--s (-$k-spacing--xs) rgba($k-color-gray--500, 0.3),
+        (-$k-spacing--xs) 0 $k-spacing--s (-$k-spacing--xs) rgba($k-color-gray--500, 0.3),
+        0 $k-spacing--xs $k-spacing--s (-$k-spacing--xs) rgba($k-color-gray--500, 0.3);
+
+    @if $limit-height {
+        overflow-y: auto;
+        max-height: 17em;
+        -webkit-overflow-scrolling: touch;
+    }
+}

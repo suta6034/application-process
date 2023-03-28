@@ -1,0 +1,17 @@
+@keyframes a-fade-out-down {
+    from {
+        opacity: 1;
+    }
+
+    to {
+        opacity: 0.2;
+        transform: translate3d(0, 3%, 0);
+    }
+}
+
+.a-fade-out-down {
+    animation-name: a-fade-out-down;
+    animation-duration: 0.4s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: both;
+}

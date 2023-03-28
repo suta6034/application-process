@@ -1,0 +1,19 @@
+@import '../settings/color';
+
+.u-gray-hover-green {
+    color: $k-color-gray--500;
+
+    &:hover,
+    &:focus {
+        color: $k-color-green--700;
+    }
+}
+
+.u-light-gray-hover-green {
+    color: $k-color-gray--400;
+
+    &:hover,
+    &:focus {
+        color: $k-color-green--700;
+    }
+}
